@@ -1,6 +1,6 @@
 # Shan Search App
 Shan Search App in Flutter project. Written by `Chat GPT` 🤫.
-> App Shan Search ၼႆႉ တႅမ်ႈလူၺ်ႈ Chat GPT ပဵၼ်ၽႃႇသႃႇ Dart တင်း Flutter.
+> App Shan Search ၼႆႉ တႅမ်ႈလူၺ်ႈ Chat GPT ပဵၼ်ၽႃႇသႃႇ Dart တင်း Flutter framework.
 
 ## Dependencies
 - DIO for HTTPS GET Request
@@ -9,7 +9,7 @@ Shan Search App in Flutter project. Written by `Chat GPT` 🤫.
 - Onesignal
 
 ## Downlaod App
-![Apk Here]()
+![Apk Here](https://github.com/doublehprojects/shansearch-app/releases/download/v1.0.0/shansearch_v100.apk)
 
 ## Demo
 | Main Screen | Full Screen |
